@@ -1,0 +1,17 @@
+{
+  "name": "DEM-fetcher",
+  "version": "1.0.0",
+  "description": "prototype for providing stk-based DEM's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baloola",
+  "license": "ISC",
+  "dependencies": {
+    "cesium": "^1.38.0",
+    "gdal": "^0.9.6",
+    "progress": "^2.0.0",
+    "sampleterrain": "https://github.com/baloola/sampleterrain.git"
+  }
+}
