@@ -1,5 +1,5 @@
 
-## **STK-fetcher**
+## **DEM-fetcher**
  A Node.js tool to replace height value of each pixel in an input raster DEM with a value that is interpolated -sampled- from Cesium Default terrain provider "STK-World".
 You can use the resulted DEM as a source for your buildings elevation before creating the 3d models, for example:
 
