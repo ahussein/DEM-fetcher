@@ -12,6 +12,6 @@
     "cesium": "^1.38.0",
     "gdal": "^0.9.6",
     "progress": "^2.0.0",
-    "sampleterrain": "https://github.com/baloola/sampleterrain.git"
+    "sampleterrain": "https://github.com/baloola/modified-SampleTerrain.git"
   }
 }
